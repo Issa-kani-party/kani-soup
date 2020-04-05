@@ -1,2 +1,2 @@
 # kani-soup
-## covid-19 is dead. "star"
+## covid-19 was dead.
